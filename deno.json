@@ -4,6 +4,8 @@
     "d1p2": "deno run --allow-read day1/part2.ts",
     "d2p1": "deno run --allow-read day2/part1.ts",
     "d2p2": "deno run --allow-read day2/part2.ts",
+    "d3p1": "deno run --allow-read day3/part1.ts",
+    "d3p2": "deno run --allow-read day3/part2.ts",
     "d4p1": "deno run --allow-read day4/part1.ts",
     "d4p2": "deno run --allow-read day4/part2.ts",
     "d5p1": "deno run --allow-read day5/part1.ts",
