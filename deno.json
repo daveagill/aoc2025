@@ -1,0 +1,38 @@
+{
+  "tasks": {
+    "d1p1": "deno run --allow-read day1/part1.ts"
+    "d1p2": "deno run --allow-read day1/part2.ts"
+
+    "d2p1": "deno run --allow-read day2/part1.ts"
+    "d2p2": "deno run --allow-read day2/part2.ts"
+
+    "d4p1": "deno run --allow-read day4/part1.ts"
+    "d4p2": "deno run --allow-read day4/part2.ts"
+
+    "d5p1": "deno run --allow-read day5/part1.ts"
+    "d5p2": "deno run --allow-read day5/part2.ts"
+
+    "d6p1": "deno run --allow-read day6/part1.ts"
+    "d6p2": "deno run --allow-read day6/part2.ts"
+
+    "d7p1": "deno run --allow-read day7/part1.ts"
+    "d7p2": "deno run --allow-read day7/part2.ts"
+
+    "d8p1": "deno run --allow-read day8/part1.ts"
+    "d8p2": "deno run --allow-read day8/part2.ts"
+
+    "d9p1": "deno run --allow-read day9/part1.ts"
+    "d9p2": "deno run --allow-read day9/part2.ts"
+
+    "d10p1": "deno run --allow-read day10/part1.ts"
+    "d10p2": "deno run --allow-read day10/part2.ts"
+
+    "d11p1": "deno run --allow-read day11/part1.ts"
+    "d11p2": "deno run --allow-read day11/part2.ts"
+
+    "d12p1": "deno run --allow-read day12/part1.ts"
+    "d12p2": "deno run --allow-read day12/part2.ts"
+ },
+  "imports": {
+  }
+}
