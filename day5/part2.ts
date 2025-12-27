@@ -44,8 +44,6 @@ export function puzzle() {
   );
 
   const weldedRanges = weldRanges(freshRanges);
-  console.log(weldedRanges);
-
   return weldedRanges.reduce((sum, r) => sum + (r.e - r.s) + 1, 0);
 }
 
