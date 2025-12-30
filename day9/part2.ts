@@ -3,6 +3,7 @@ type Vec2 = { x: number; y: number };
 // this looks for any edges that intersect our box
 // we are basically assuming that crossing a boundry means exiting the shape
 // which is technically not necessarily true if edges are adjacent on the grid
+// see part2_v2.ts for a more complex solution that does not make this assemption
 function intersects(p1: Vec2, p2: Vec2, points: Vec2[]) {
   const xMin = Math.min(p1.x, p2.x);
   const xMax = Math.max(p1.x, p2.x);
